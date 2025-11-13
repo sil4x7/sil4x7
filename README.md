@@ -11,7 +11,7 @@ Bem-Vindo!
 ###
 
 ![](https://github-readme-stats.vercel.app/api?username=sil4x7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=sil4x7&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=sil4x7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sil4x7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
