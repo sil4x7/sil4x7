@@ -2,7 +2,7 @@
 Bem-Vindo!
 </div>
 
-<div align="center">
+<div align="left">
 
 ###
   
