@@ -1,5 +1,5 @@
-<div align="left">
-Bem-Vindo!
+<div align="center">
+<strong>Bem-Vindo!</strong>
 </div>
 
 <div align="center">
